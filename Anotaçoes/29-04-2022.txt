@@ -1,0 +1,2 @@
+Ate aqui aprendi como criar repositorios e atualizar o mesmo atraves do GIT bash, ja tinha conhecimento anterior e agora consegui ampliar um pouco mais atraves do curso :)
+	
